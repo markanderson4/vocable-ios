@@ -186,7 +186,6 @@
 		130C00C320D2AD2C007C3163 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		130C00C520D2AD2C007C3163 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		17191A2F245089270079F9BE /* VocableUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VocableUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		17191A33245089270079F9BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2631B365251181C400B94402 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		274540272460DD0F0056EF98 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Presets.strings; sourceTree = "<group>"; };
 		274540292460DD170056EF98 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Presets.strings; sourceTree = "<group>"; };
@@ -438,7 +437,6 @@
 		17191A30245089270079F9BE /* VocableUITests */ = {
 			isa = PBXGroup;
 			children = (
-				17191A33245089270079F9BE /* Info.plist */,
 				5A41750027D6831D00CFAE9C /* VocableUITests.swift */,
 			);
 			path = VocableUITests;
